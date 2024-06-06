@@ -1,0 +1,6 @@
+Survived: 0 means died, 1 means survived
+SibSp: Number of siblings and/or spouses
+Parch: Number of parents and/or children
+
+
+Removed Ticket, Name, Cabin, and Fare fields in trimmed set - they were unnecessary
